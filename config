@@ -1,0 +1,5 @@
+[main]
+1=/usr/bin/vlc
+2=/usr/bin/firefox
+3=600
+4=3
